@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: manipulator_mujoco
+Version: 1.0.0
+License-File: LICENSE
+Requires-Dist: mujoco
+Requires-Dist: dm-control
+Requires-Dist: numpy<2.0.0
+Requires-Dist: gymnasium
